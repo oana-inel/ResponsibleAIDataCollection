@@ -2,7 +2,7 @@
 
 We propose a **Responsible AI (RAI) methodology** designed to guide the data collection with **a set of metrics for an iterative in-depth analysis** of the *factors influencing the quality and reliability* of the generated data. We propose a granular set of measurements to inform on the *internal reliability* of a dataset and its *external stability* over time. We validate our approach across nine existing datasets and annotation tasks and four content modalities. 
 
-This repository contains the validation of our proposed **Responsible AI (RAI) methodology** on nine datasets. We publish nine different notebooks, each for one of the following datasets:
+This repository contains the validation of our proposed **Responsible AI (RAI) methodology** on nine datasets and the [**supplemental material**]() that accompanies our publication. We publish nine different notebooks, each for one of the following datasets:
 
  * [**Video Concept Relevance (VCR_E, VCR_P, VCR_L, VCR_O, VCR_ALL)**](): Dataset of 208, 234, 223, 59, and respectively 969 video-concept pairs which have been annotated in terms of relevance in five different annotation tasks, namely focusing on relevent events (VCR_E), relevant people (VCR_P), relevant locations (VCR_L), relevant organizations (VCR_O), and, respectively all relevant concepts (VCR_ALL). The concepts were machine-extracted (video subtitles and video stream) from ten short English news broadcasts (i.e., videos) published on YouTube, from a publicly available dataset used by [Inel, Tintarev and Aroyo (2020)](https://dl.acm.org/doi/pdf/10.1145/3340631.3394862), [Mavridis et al. (2018)](https://ceur-ws.org/Vol-2276/paper11.pdf), and [Inel and Aroyo (2022)](https://dl.acm.org/doi/pdf/10.1145/3539596). Each task was repeated three times, at least three months apart, and each repetition used the same raters’ qualifications, and raters were allowed to participate across repetitions. 
 
@@ -30,10 +30,6 @@ If you find the paper and the data useful in your research, please consider citi
   organization={AAAI}
 }
 ```
- 
- 
-## Files structure
-
  
 ### Note
 
