@@ -37,4 +37,4 @@ In order to reproduce the analysis in the notebooks, each dataset needs to be do
 
 Furthermore, several libraries need to be added to the repository as follows:
 - Download the python implementation of the Krippendorff's alpha metric from this repository: [https://github.com/grrrr/krippendorff-alpha](https://github.com/grrrr/krippendorff-alpha). Copy the file [https://github.com/grrrr/krippendorff-alpha/blob/master/krippendorff_alpha.py](https://github.com/grrrr/krippendorff-alpha/blob/master/krippendorff_alpha.py) to the scripts folder.
-- Download the python implementation of the xRR metric from this repository: [https://github.com/aneeta/xRR](https://github.com/aneeta/xRR). Copy the folder [https://github.com/aneeta/xRR/tree/main/xrr](https://github.com/aneeta/xRR/tree/main/xrr) to the scripts folder;
+- Download the python implementation of the xRR metric from this repository: [https://github.com/aneeta/xRR](https://github.com/aneeta/xRR). Copy the folder [https://github.com/aneeta/xRR/tree/main/xrr](https://github.com/aneeta/xRR/tree/main/xrr) to the scripts folder.
